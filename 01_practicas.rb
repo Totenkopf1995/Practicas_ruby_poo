@@ -46,3 +46,5 @@ book = Book.new('Ejemplo', 'dist', 'ed', 500)
 book.print_full_info
 
 Media.legal_advice
+
+
